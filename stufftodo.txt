@@ -1,0 +1,2 @@
+SETUP RGB WITH ckb-next:
+https://github.com/ckb-next/ckb-next/wiki
