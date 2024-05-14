@@ -12,8 +12,17 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+# My aliases
+alias ls='ls -p'
+
 # Prompt configuration
 PROMPT="%n@%m %1~ :) "
 
 # Keychain for git setup
 eval $(keychain --eval --agents ssh --quiet shivamofthesingh)
+
+# Neofetch cool
+# neofetch
+
+# Starfetch cooler
+starfetch
