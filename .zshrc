@@ -25,4 +25,5 @@ eval $(keychain --eval --agents ssh --quiet shivamofthesingh)
 # neofetch
 
 # Starfetch cooler
+echo ""
 starfetch
