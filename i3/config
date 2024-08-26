@@ -194,8 +194,3 @@ bar {
 # Screenshot keybinding
 bindsym $mod+Shift+s exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
 
-## Button Remaps
-
-# SWITCHING WINDOWS KEY AND CONTROL KEY cuz im used to mac
-exec --no-startup-id setxkbmap -option ctrl:swap_lwin_lctl
- 
